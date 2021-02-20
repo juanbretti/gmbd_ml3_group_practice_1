@@ -1,0 +1,13 @@
+Test video
+https://www.pexels.com/video/traffic-flow-in-an-intersection-4791734/
+https://www.pexels.com/video/traffic-on-the-road-1198818/
+https://www.pexels.com/video/road-systems-in-montreal-canada-for-traffic-management-of-motor-vehicles-3727445/
+
+Dataset
+https://public.roboflow.com/ds/APf0x5RyAO?key=swrIfaLIHz
+
+Tutorial
+https://www.youtube.com/watch?v=nBjod252PoY
+
+https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
+https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
